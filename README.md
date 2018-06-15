@@ -1,2 +1,0 @@
-# selenium
-Web-Browser Automation

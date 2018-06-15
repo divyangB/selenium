@@ -1,0 +1,454 @@
+1529050449966	geckodriver	INFO	geckodriver 0.20.1
+1529050449973	geckodriver	INFO	Listening on 127.0.0.1:39357
+1529050450983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RpbcNwhvdxws"
+1529050456544	Marionette	INFO	Listening on port 39683
+1529050456630	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529050740056	geckodriver	INFO	geckodriver 0.20.1
+1529050740062	geckodriver	INFO	Listening on 127.0.0.1:44621
+1529050741071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M3sBHrxcZDjt"
+1529050744854	Marionette	INFO	Listening on port 43197
+1529050744887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 826: Error: Connection is not open.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529050787010	geckodriver	INFO	geckodriver 0.20.1
+1529050787018	geckodriver	INFO	Listening on 127.0.0.1:43403
+1529050788021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Dz0sLu6Tbuas"
+1529050791732	Marionette	INFO	Listening on port 43691
+1529050791744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 826: Error: Connection is not open.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529050817766	geckodriver	INFO	geckodriver 0.20.1
+1529050817773	geckodriver	INFO	Listening on 127.0.0.1:52613
+1529050818782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Parkx23JtvV7"
+1529050822516	Marionette	INFO	Listening on port 35937
+1529050822599	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529050856758	geckodriver	INFO	geckodriver 0.20.1
+1529050856764	geckodriver	INFO	Listening on 127.0.0.1:57299
+1529050857772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9e3V4pxklwJM"
+1529050861534	Marionette	INFO	Listening on port 42453
+1529050861595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529050913588	geckodriver	INFO	geckodriver 0.20.1
+1529050913596	geckodriver	INFO	Listening on 127.0.0.1:36639
+1529050914604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RBx52tZ6HlT0"
+1529050918398	Marionette	INFO	Listening on port 42967
+1529050918439	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529050973123	geckodriver	INFO	geckodriver 0.20.1
+1529050973130	geckodriver	INFO	Listening on 127.0.0.1:57755
+1529050974138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CWcYpWyOHKb3"
+1529050978262	Marionette	INFO	Listening on port 36295
+1529050978356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529051002825	geckodriver	INFO	geckodriver 0.20.1
+1529051002832	geckodriver	INFO	Listening on 127.0.0.1:42671
+1529051003842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iEl4OeGfENTM"
+1529051007654	Marionette	INFO	Listening on port 40181
+1529051007661	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529051038402	geckodriver	INFO	geckodriver 0.20.1
+1529051038409	geckodriver	INFO	Listening on 127.0.0.1:59959
+1529051039418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nulBC8TM7AVL"
+1529051043490	Marionette	INFO	Listening on port 45773
+1529051043546	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529051077360	geckodriver	INFO	geckodriver 0.20.1
+1529051077367	geckodriver	INFO	Listening on 127.0.0.1:57505
+1529051078374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bEGEOEmR2iVq"
+1529051081972	Marionette	INFO	Listening on port 39175
+1529051082003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 826: Error: Connection is not open.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529051219641	geckodriver	INFO	geckodriver 0.20.1
+1529051219648	geckodriver	INFO	Listening on 127.0.0.1:37941
+1529051220657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GF14et17IXLp"
+1529051224426	Marionette	INFO	Listening on port 34487
+1529051224479	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529051501801	geckodriver	INFO	geckodriver 0.20.1
+1529051501808	geckodriver	INFO	Listening on 127.0.0.1:53533
+1529051502817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vQHKKeNfT1tC"
+1529051506629	Marionette	INFO	Listening on port 34145
+1529051506634	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 9391, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529051664061	geckodriver	INFO	geckodriver 0.20.1
+1529051664068	geckodriver	INFO	Listening on 127.0.0.1:46617
+1529051665128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7QhZ4gYUtdKK"
+1529051668915	Marionette	INFO	Listening on port 39141
+1529051668953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529054086883	geckodriver	INFO	geckodriver 0.20.1
+1529054086892	geckodriver	INFO	Listening on 127.0.0.1:60501
+1529054087951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ehrkMVrrR8ky"
+1529054091658	Marionette	INFO	Listening on port 38567
+1529054091673	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10851, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529054161255	geckodriver	INFO	geckodriver 0.20.1
+1529054161260	geckodriver	INFO	Listening on 127.0.0.1:51875
+1529054162274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uIImrWvA55EJ"
+1529054166032	Marionette	INFO	Listening on port 37779
+1529054166096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529054175263	geckodriver	INFO	geckodriver 0.20.1
+1529054175271	geckodriver	INFO	Listening on 127.0.0.1:58165
+1529054176277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4svb3quYIzVB"
+1529054179915	Marionette	INFO	Listening on port 45011
+1529054179993	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529054356248	geckodriver	INFO	geckodriver 0.20.1
+1529054356255	geckodriver	INFO	Listening on 127.0.0.1:48943
+1529054357260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yipiBSOeCw9X"
+1529054360941	Marionette	INFO	Listening on port 41013
+1529054360984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529054410033	geckodriver	INFO	geckodriver 0.20.1
+1529054410046	geckodriver	INFO	Listening on 127.0.0.1:45575
+1529054410064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pvJvVCCo676K"
+1529054415014	Marionette	INFO	Listening on port 42665
+1529054415086	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1529054760989	geckodriver	INFO	geckodriver 0.20.1
+1529054760995	geckodriver	INFO	Listening on 127.0.0.1:43269
+1529054762005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ggi3IgmLnwJn"
+1529054765764	Marionette	INFO	Listening on port 37511
+1529054765824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529054933709	geckodriver	INFO	geckodriver 0.20.1
+1529054933715	geckodriver	INFO	Listening on 127.0.0.1:50719
+1529054934720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LNcJat9xMN3m"
+1529054938547	Marionette	INFO	Listening on port 36829
+1529054938646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529054990146	geckodriver	INFO	geckodriver 0.20.1
+1529054990152	geckodriver	INFO	Listening on 127.0.0.1:47269
+1529054991162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TA1E3Zvqlzd5"
+1529054994924	Marionette	INFO	Listening on port 32811
+1529054994986	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1529055302355	geckodriver	INFO	geckodriver 0.20.1
+1529055302367	geckodriver	INFO	Listening on 127.0.0.1:52507
+1529055303384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GqUF2thKLw7J"
+1529055307691	Marionette	INFO	Listening on port 40979
+1529055307715	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529055651831	geckodriver	INFO	geckodriver 0.20.1
+1529055651841	geckodriver	INFO	Listening on 127.0.0.1:41189
+1529055652846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wQMgonGZMyZZ"
+1529055656903	Marionette	INFO	Listening on port 37593
+1529055656978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529055691125	geckodriver	INFO	geckodriver 0.20.1
+1529055691133	geckodriver	INFO	Listening on 127.0.0.1:37435
+1529055692184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.s1IJONjWJQZk"
+1529055695954	Marionette	INFO	Listening on port 40915
+1529055696013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529055722793	geckodriver	INFO	geckodriver 0.20.1
+1529055722799	geckodriver	INFO	Listening on 127.0.0.1:55561
+1529055723809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SOXQlN97Gkhl"
+1529055727610	Marionette	INFO	Listening on port 37375
+1529055727645	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529055960434	geckodriver	INFO	geckodriver 0.20.1
+1529055960440	geckodriver	INFO	Listening on 127.0.0.1:45521
+1529055961448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SoRGcpqOuZMQ"
+1529055965090	Marionette	INFO	Listening on port 38997
+1529055965170	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529056557437	geckodriver	INFO	geckodriver 0.20.1
+1529056557444	geckodriver	INFO	Listening on 127.0.0.1:53711
+1529056558451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3psI9JKV3OBm"
+1529056562317	Marionette	INFO	Listening on port 44157
+1529056562379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529056587067	geckodriver	INFO	geckodriver 0.20.1
+1529056587074	geckodriver	INFO	Listening on 127.0.0.1:46287
+1529056588082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qavmbTraFDTY"
+1529056591706	Marionette	INFO	Listening on port 34225
+1529056591801	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1529057300430	geckodriver	INFO	geckodriver 0.20.1
+1529057300436	geckodriver	INFO	Listening on 127.0.0.1:33115
+1529057301446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6SLulTa3exw2"
+1529057305190	Marionette	INFO	Listening on port 45957
+1529057305261	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1529057381440	geckodriver	INFO	geckodriver 0.20.1
+1529057381446	geckodriver	INFO	Listening on 127.0.0.1:44327
+1529057382457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I0pJPLPuvFHW"
+1529057386122	Marionette	INFO	Listening on port 35529
+1529057386177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529057426338	geckodriver	INFO	geckodriver 0.20.1
+1529057426349	geckodriver	INFO	Listening on 127.0.0.1:39725
+1529057427357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wMCOslWtFM78"
+1529057430989	Marionette	INFO	Listening on port 43899
+1529057431078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529057484575	geckodriver	INFO	geckodriver 0.20.1
+1529057484583	geckodriver	INFO	Listening on 127.0.0.1:44277
+1529057485592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nK2sDApU7fvj"
+1529057490089	Marionette	INFO	Listening on port 36121
+1529057490132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.lAJlQMD5XzY.O/m=pds,pdl,pdit,m_i,pdt,t,it/am=Xv8EsAPF2wcECADczljEcBAhzUCY-T-CPA3wdiPKwP__D0BgANAB4Avw73-AzgEAAAAAAAAAAAAAAAAAAIAWFPgF/rt=h/d=1/rs=AHGWq9BQ5Hs8bLrQpizkKRBxLGZ2-aJ-EQ, line 265: NS_ERROR_NOT_INITIALIZED: 
+1529094795077	geckodriver	INFO	geckodriver 0.20.1
+1529094795091	geckodriver	INFO	Listening on 127.0.0.1:53741
+1529094796095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kEbC0ZrlmDNk"
+1529094800254	Marionette	INFO	Listening on port 44813
+1529094800313	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529095246167	geckodriver	INFO	geckodriver 0.20.1
+1529095246174	geckodriver	INFO	Listening on 127.0.0.1:37251
+1529095247182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LceoYluOMj9z"
+1529095250829	Marionette	INFO	Listening on port 36037
+1529095250900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript error: https://cdn-sic.33across.com/1/javascripts/sic.js, line 63: TypeError: null has no properties
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.accuweather.com
+1529095353162	geckodriver	INFO	geckodriver 0.20.1
+1529095353170	geckodriver	INFO	Listening on 127.0.0.1:51761
+1529095354170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qUJOslbYGDkW"
+1529095358681	Marionette	INFO	Listening on port 37285
+1529095358712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://route.carambo.la/inimage/getlayer?pid=ccwt40&did=112842&wid=0&rdn=[RANDOM_NUMBER], line 3: TypeError: t is undefined
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript error: https://s.update.rubiconproject.com/2/4.37.5/nv-main.js, line 6: TypeError: Argument 1 of Window.getComputedStyle does not implement interface Element.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.accuweather.com
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+1529095497292	geckodriver	INFO	geckodriver 0.20.1
+1529095497371	geckodriver	INFO	Listening on 127.0.0.1:38837
+1529095498359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y1YZuQBOlqqv"
+1529095507762	Marionette	INFO	Listening on port 36527
+1529095507803	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1529095675506	geckodriver	INFO	geckodriver 0.20.1
+1529095675514	geckodriver	INFO	Listening on 127.0.0.1:40709
+1529095675532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MyvzbDBrVPaW"
+1529095684799	Marionette	INFO	Listening on port 35649
+1529095684900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20180613/r20180604/show_ads_impl.js, line 1: Error: Bad href
+JavaScript error: https://us-ads.openx.net/w/1.0/afr?auid=540092344&cb=INSERT_RANDOM_NUMBER_HERE, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://us-ads.openx.net/w/1.0/afr?auid=540092326&cb={random}&_ADTIME_&$RANDOM&%%CACHEBUSTER%%&, line 1: SyntaxError: expected expression, got '<'
+1529095750041	geckodriver	INFO	geckodriver 0.20.1
+1529095750163	geckodriver	INFO	Listening on 127.0.0.1:45741
+1529095751205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lShZaXigImTC"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+1529095776479	Marionette	INFO	Listening on port 45391
+1529095776747	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18297, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+ExceptionHandler::GenerateDump cloned child 18531
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1529095931188	geckodriver	INFO	geckodriver 0.20.1
+1529095931194	geckodriver	INFO	Listening on 127.0.0.1:33015
+1529095932202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ecR90QGyf1is"
+1529095935959	Marionette	INFO	Listening on port 36103
+1529095936028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://openweathermap.org
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1529096256364	geckodriver	INFO	geckodriver 0.20.1
+1529096256371	geckodriver	INFO	Listening on 127.0.0.1:48501
+1529096257379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3S951RBtvjcj"
+1529096261199	Marionette	INFO	Listening on port 35285
+1529096261296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://openweathermap.org
+1529096322792	geckodriver	INFO	geckodriver 0.20.1
+1529096322800	geckodriver	INFO	Listening on 127.0.0.1:51575
+1529096323805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UnOfZQBMPteX"
+1529096327510	Marionette	INFO	Listening on port 40151
+1529096327526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529096432978	geckodriver	INFO	geckodriver 0.20.1
+1529096432986	geckodriver	INFO	Listening on 127.0.0.1:43911
+1529096433996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PKalvG0QJWTJ"
+1529096437818	Marionette	INFO	Listening on port 45797
+1529096437918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529096629034	geckodriver	INFO	geckodriver 0.20.1
+1529096629040	geckodriver	INFO	Listening on 127.0.0.1:36563
+1529096630051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tDJoG75rCOSX"
+1529096633841	Marionette	INFO	Listening on port 33257
+1529096633881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 3022: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIContentPermissionRequest.cancel]
+1529098199068	geckodriver	INFO	geckodriver 0.20.1
+1529098199072	geckodriver	INFO	Listening on 127.0.0.1:51017
+1529098200084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.b0ipJTUmxoXD"
+1529098204134	Marionette	INFO	Listening on port 44539
+1529098204213	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1529098204235	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21063, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
